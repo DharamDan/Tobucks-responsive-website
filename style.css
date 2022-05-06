@@ -1,0 +1,1352 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+}
+
+
+
+
+.container_fluid{
+    display: flex;
+    margin: 0%;
+    
+
+
+}
+#row1{
+    border: none;
+    background: #146CC4;
+    margin: 0%;
+    width: 1920px;
+    height: 40px;
+    margin-top: 0%;
+    padding: 0%;
+
+    margin-left: -12px;
+    margin-right: -12px;
+    position: relative;
+    bottom: 8px;
+    
+    
+
+    
+
+}
+.logo{
+    display: flex;
+    align-items: flex-start;
+    justify-content: flex-start;
+    margin-top: 7px;
+    margin-left: 25px;
+
+   
+    height: 24px;
+width: 17px;
+left: 1223px;
+top: 11px;
+border-radius: 0px;
+
+
+}
+
+.headerclass1{
+    
+    display: flex;
+    justify-content: flex-end;
+    align-items: flex-start;
+    justify-items: right;
+    
+
+}
+.col3{
+    display: flex;
+    justify-content: flex-start;
+    align-items: flex-end;
+    height: 10px;
+    
+}
+.headerclass2{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: #3B3B3B;
+    height: 40px;
+    width: 85px;
+    margin-right: 19px;
+
+    
+
+    
+    
+    
+}
+.span1{
+    font-size: 17px;
+    font-family:link rel="preconnect" href="https://fonts.googleapis.com"
+    link rel="preconnect" href="https://fonts.gstatic.com" crossorigin ;
+    font-style: normal;
+    font-weight: 500;
+    letter-spacing: 0.5px;
+    color: #ffffff;
+}
+.headerclass4{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: #3B3B3B;
+    margin-right: 80px;
+    
+    height: 40px;
+    width: 110px;
+
+    
+    
+    
+}
+.span2{
+    font-size: 17px;
+    font-family:link rel="preconnect" href="https://fonts.googleapis.com"
+    link rel="preconnect" href="https://fonts.gstatic.com" crossorigin ;
+    font-style: normal;
+    font-weight: 500;
+    letter-spacing: 0.5px;
+    color: #ffffff;
+}
+
+
+
+
+
+
+.para1{
+    display: flex;
+    justify-content: flex-start;
+     align-items:flex-end;
+     position: relative;
+     top: 2px;
+     left: 45px;
+     
+     
+    /* margin-bottom:  px;
+      position: relative;
+      bottom: 22px;
+      left: 47px; */  
+
+    font-family:link rel="preconnect" href="https://fonts.googleapis.com"
+    link rel="preconnect" href="https://fonts.gstatic.com" crossorigin ;
+    font-size: 12px;
+    font-style: normal;
+    font-weight: 500;
+    margin-left: 10px;
+    color: #FFFFFF;
+
+    
+}
+
+
+.navbar{
+    /* background-color: fuchsia; */
+    height: 90px;
+}
+.navbarimg{
+    height: 130px;
+    width: 290px;
+    position: relative;
+    bottom: 30px;
+    left: 40px;
+
+    
+
+
+}
+.lastdivnav1{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: flex-start;
+    margin-top: -39px;
+    margin-left: 294px;
+    height: 53px;
+width: 158px;
+/* left: 1517px; */
+top: 86px;
+border: 1px solid none
+;
+background-color: #146CC4;
+border-radius: 4px;
+z-index: 1;
+
+    
+   
+}
+.logo1{
+    height: 15px;
+width: 15px;
+margin-right: 4px;
+align-self: flex-start;
+left: 1544px;
+top: 103px;
+border-radius: 0px;
+
+}
+.hello{
+    z-index: 1;
+    color: #ffffff;
+    font-size: 14px;
+    font-weight:normal;
+    margin-left: 23px;
+
+}
+
+.row{
+    border-bottom: 1px solid #cccbcb;
+    margin: 0%;
+    height: 78px;
+    width: 100%;
+}
+#col2{
+    display: flex;
+    justify-content: flex-start;
+    align-items:flex-start;
+}
+#navlist{
+    display: none;
+    flex-direction: row;
+    justify-content: center;
+    
+    align-items: flex-end;
+    list-style: none;
+    margin-top:-114px;
+    margin-left: 225px;
+    padding: 0px;
+    
+}
+a:link{
+    text-decoration: none;
+}
+.appicon{
+    display: flex;
+    flex-direction: column;
+    justify-content:flex-start;
+    align-items: flex-start;
+    text-decoration: none;
+    position: relative;
+    top: 22px;
+    right: 85px;
+    font-size: 17px!important;
+    font-family: poppins;
+    font-weight: 700!important;
+    text-transform: uppercase;
+    color: #146CC4;
+    letter-spacing: 0.5px;
+    
+}
+.appicon1{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+    text-decoration: none;
+    top: -24px;
+    right: 85px;
+
+    /* flex-direction: row; */
+    font-size: 17px!important;
+    font-family: poppins;
+    font-weight: 700!important;
+    text-transform: uppercase;
+    color: #146CC4;
+    letter-spacing: 0.5px;
+    
+}
+.navicons{
+    display: flex;
+    justify-content: center;
+    align-items:flex-end;
+    align-self: center;
+    padding: 7px;
+    font-family: poppins;
+    font-size: 16px;
+    font-weight: 700;
+    
+
+    
+}
+.imgicon{
+  height: 20px;
+
+}
+.navicon{
+    margin: -17px 0px 0px 29px;
+    height: 50px;
+    width: 12%;
+}
+
+@media only screen and (max-width: 1200px) {
+    #row1{
+        height: 60px;
+
+    }
+    .headerclass1{
+        display: flex;
+        justify-content: flex-end;
+        align-items: center;
+        justify-items: flex-end;
+        margin-bottom:  3px ;
+        margin-left: -145px;
+        
+        
+    
+    }
+    .headerclass2{
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        background: #3B3B3B;
+        height: 40px;
+        width: 85px;
+        margin-right: 20px;
+    
+        
+    
+        
+        
+        
+    }
+    .span1{
+        font-size: 17px;
+        font-family:link rel="preconnect" href="https://fonts.googleapis.com"
+        link rel="preconnect" href="https://fonts.gstatic.com" crossorigin ;
+        font-style: normal;
+        font-weight: 500;
+        letter-spacing: 0.5px;
+        color: #ffffff;
+    }
+    .headerclass4{
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        background: #3B3B3B;
+        margin-right: 0px;
+        
+        height: 40px;
+        width: 110px;
+    
+        
+        
+        
+    }
+    .span2{
+        font-size: 17px;
+        font-family:link rel="preconnect" href="https://fonts.googleapis.com"
+        link rel="preconnect" href="https://fonts.gstatic.com" crossorigin ;
+        font-style: normal;
+        font-weight: 500;
+        letter-spacing: 0.5px;
+        color: #ffffff;
+    }
+    #col2{
+        display: flex;
+        justify-content: flex-start;
+        align-items:flex-end;
+    }
+    .logo{
+        display: flex;
+        align-items: flex-end;
+        justify-content: flex-start;
+        margin-top: 18px;
+        margin-left: 30px;
+    
+       
+        height: 24px;
+    width: 17px;
+    left: 1223px;
+    top: 11px;
+    border-radius: 0px;
+    
+    
+    }
+    .col3{
+        display: flex;
+        justify-content: flex-start;
+        align-items: flex-end;
+        height: 10px;
+        
+    }
+    .para1{
+        display: flex;
+        justify-content: flex-start;
+         align-items:flex-end;
+         position: relative;
+         top: 1px;
+         left: 52px;
+         
+         
+        /* margin-bottom:  px;
+          position: relative;
+          bottom: 22px;
+          left: 47px; */  
+    
+        font-family:link rel="preconnect" href="https://fonts.googleapis.com"
+        link rel="preconnect" href="https://fonts.gstatic.com" crossorigin ;
+        font-size: 12px;
+        font-style: normal;
+        font-weight: 500;
+        margin-left: 10px;
+        color: #FFFFFF;
+    
+        
+    }
+    
+    
+    
+    
+    
+    
+  
+}
+@media only screen and (main-width: 1400px) {
+    #row1{
+        height: 60px;
+
+    }
+    .headerclass1{
+        display: flex;
+        justify-content: flex-end;
+        align-items: center;
+        justify-items: flex-end;
+        margin-bottom:  3px ;
+        margin-left: -145px;
+        
+        
+    
+    }
+    .headerclass2{
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        background: #3B3B3B;
+        height: 40px;
+        width: 85px;
+        margin-right: 20px;
+    
+        
+    
+        
+        
+        
+    }
+    .span1{
+        font-size: 17px;
+        font-family:link rel="preconnect" href="https://fonts.googleapis.com"
+        link rel="preconnect" href="https://fonts.gstatic.com" crossorigin ;
+        font-style: normal;
+        font-weight: 500;
+        letter-spacing: 0.5px;
+        color: #ffffff;
+    }
+    .headerclass4{
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        background: #3B3B3B;
+        margin-right: 0px;
+        
+        height: 40px;
+        width: 110px;
+    
+        
+        
+        
+    }
+    .span2{
+        font-size: 17px;
+        font-family:link rel="preconnect" href="https://fonts.googleapis.com"
+        link rel="preconnect" href="https://fonts.gstatic.com" crossorigin ;
+        font-style: normal;
+        font-weight: 500;
+        letter-spacing: 0.5px;
+        color: #ffffff;
+    }
+    #col2{
+        display: flex;
+        justify-content: flex-start;
+        align-items:flex-end;
+    }
+    .logo{
+        display: flex;
+        align-items: flex-end;
+        justify-content: flex-start;
+        margin-top: 18px;
+        margin-left: 30px;
+    
+       
+        height: 24px;
+    width: 17px;
+    left: 1223px;
+    top: 11px;
+    border-radius: 0px;
+    
+    
+    }
+    .col3{
+        display: flex;
+        justify-content: flex-start;
+        align-items: flex-end;
+        height: 10px;
+        
+    }
+    .para1{
+        display: flex;
+        justify-content: flex-start;
+         align-items:flex-end;
+         position: relative;
+         top: 1px;
+         left: 52px;
+         
+         
+        /* margin-bottom:  px;
+          position: relative;
+          bottom: 22px;
+          left: 47px; */  
+    
+        font-family:link rel="preconnect" href="https://fonts.googleapis.com"
+        link rel="preconnect" href="https://fonts.gstatic.com" crossorigin ;
+        font-size: 12px;
+        font-style: normal;
+        font-weight: 500;
+        margin-left: 10px;
+        color: #FFFFFF;
+    
+        
+    }
+    
+    
+    
+    
+    
+    
+  
+}
+@media only screen and (max-width: 992px) {
+    #row1{
+        height: 60px;
+
+    }
+    .headerclass1{
+        display: flex;
+        justify-content: flex-end;
+        align-items: flex-start;
+        justify-items: flex-end;
+        margin-top:   -45px ;
+        margin-left: -145px;
+        
+        
+    
+    }
+    .headerclass2{
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        background: #3B3B3B;
+        height: 40px;
+        width: 85px;
+        margin-right: 20px;
+    
+        
+    
+        
+        
+        
+    }
+    .span1{
+        font-size: 17px;
+        font-family:link rel="preconnect" href="https://fonts.googleapis.com"
+        link rel="preconnect" href="https://fonts.gstatic.com" crossorigin ;
+        font-style: normal;
+        font-weight: 500;
+        letter-spacing: 0.5px;
+        color: #ffffff;
+    }
+    .headerclass4{
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        background: #3B3B3B;
+        margin-right: -65px;
+        
+        height: 40px;
+        width: 110px;
+    
+        
+        
+        
+    }
+    .span2{
+        font-size: 17px;
+        font-family:link rel="preconnect" href="https://fonts.googleapis.com"
+        link rel="preconnect" href="https://fonts.gstatic.com" crossorigin ;
+        font-style: normal;
+        font-weight: 500;
+        letter-spacing: 0.5px;
+        color: #ffffff;
+    }
+    #col2{
+        display: flex;
+        justify-content: flex-start;
+        align-items:flex-end;
+    }
+    .logo{
+        display: flex;
+        align-items: flex-end;
+        justify-content: flex-start;
+        margin-top: 18px;
+        margin-left: 30px;
+    
+       
+        height: 24px;
+    width: 17px;
+    left: 1223px;
+    top: 11px;
+    border-radius: 0px;
+    
+    
+    }
+    .col3{
+        display: flex;
+        justify-content: flex-start;
+        align-items: flex-end;
+        height: 10px;
+        
+    }
+    .para1{
+        display: flex;
+        justify-content: flex-start;
+         align-items:flex-end;
+         position: relative;
+         top: 1px;
+         left: 52px;
+         
+         
+        /* margin-bottom:  px;
+          position: relative;
+          bottom: 22px;
+          left: 47px; */  
+    
+        font-family:link rel="preconnect" href="https://fonts.googleapis.com"
+        link rel="preconnect" href="https://fonts.gstatic.com" crossorigin ;
+        font-size: 12px;
+        font-style: normal;
+        font-weight: 500;
+        margin-left: 10px;
+        color: #FFFFFF;
+    
+    }
+}
+@media (max-width: 768px)  { 
+    #row1{
+        height: 60px;
+
+    }
+    .headerclass1{
+        display: flex;
+        justify-content: flex-end;
+        align-items: flex-start;
+        justify-items: flex-end;
+        margin-top:   -45px ;
+        margin-left: -145px;
+        
+        
+    
+    }
+    .headerclass2{
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        background: #3B3B3B;
+        height: 40px;
+        width: 85px;
+        margin-right: 20px;
+    
+        
+    
+        
+        
+        
+    }
+    .span1{
+        font-size: 17px;
+        font-family:link rel="preconnect" href="https://fonts.googleapis.com"
+        link rel="preconnect" href="https://fonts.gstatic.com" crossorigin ;
+        font-style: normal;
+        font-weight: 500;
+        letter-spacing: 0.5px;
+        color: #ffffff;
+    }
+    .headerclass4{
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        background: #3B3B3B;
+        margin-right: -80px;
+        
+        height: 40px;
+        width: 110px;
+    
+        
+        
+        
+    }
+    .span2{
+        font-size: 17px;
+        font-family:link rel="preconnect" href="https://fonts.googleapis.com"
+        link rel="preconnect" href="https://fonts.gstatic.com" crossorigin ;
+        font-style: normal;
+        font-weight: 500;
+        letter-spacing: 0.5px;
+        color: #ffffff;
+    }
+    #col2{
+        display: flex;
+        justify-content: flex-start;
+        align-items:flex-end;
+    }
+    .logo{
+        display: flex;
+        align-items: flex-end;
+        justify-content: flex-start;
+        margin-top: 18px;
+        margin-left: 30px;
+    
+       
+        height: 24px;
+    width: 17px;
+    left: 1223px;
+    top: 11px;
+    border-radius: 0px;
+    
+    
+    }
+    .col3{
+        display: flex;
+        justify-content: flex-start;
+        align-items: flex-end;
+        height: 10px;
+        
+    }
+    .para1{
+        display: flex;
+        justify-content: flex-start;
+         align-items:flex-end;
+         position: relative;
+         top: 1px;
+         left: 52px;
+         
+         
+        /* margin-bottom:  px;
+          position: relative;
+          bottom: 22px;
+          left: 47px; */  
+    
+        font-family:link rel="preconnect" href="https://fonts.googleapis.com"
+        link rel="preconnect" href="https://fonts.gstatic.com" crossorigin ;
+        font-size: 12px;
+        font-style: normal;
+        font-weight: 500;
+        margin-left: 10px;
+        color: #FFFFFF;
+    
+    }
+
+ }
+ @media (max-width: 576px)  { 
+     /* .col-sm-12{
+         width: 100%;
+     } */
+    #row1{
+        height: 122px;
+        width: 100%;
+        margin-left: 0px;
+        margin-right: 0px;
+        
+        
+
+    }
+    .headerclass1{
+    
+        display: inline-flex;
+        justify-content: center;
+        align-items: center;
+        flex-wrap: wrap;
+        /* justify-items: flex-end; */
+        margin-top:   -0px ;
+        margin-left: -200px;
+    
+        
+        
+    
+        
+        
+    
+    }
+    .headerclass2{
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        background: #3B3B3B;
+        height: 40px;
+        width: 85px;
+        margin-right: 20px;
+    
+        
+    
+        
+        
+        
+    }
+    .span1{
+        
+        font-size: 17px;
+        font-family:link rel="preconnect" href="https://fonts.googleapis.com"
+        link rel="preconnect" href="https://fonts.gstatic.com" crossorigin ;
+        font-style: normal;
+        font-weight: 500;
+        letter-spacing: 0.5px;
+        color: #ffffff;
+    }
+    .headerclass4{
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        background: #3B3B3B;
+        margin-right: -80px;
+        
+        height: 40px;
+        width: 110px;
+    
+        
+        
+        
+    }
+    .span2{
+        font-size: 17px;
+        font-family:link rel="preconnect" href="https://fonts.googleapis.com"
+        link rel="preconnect" href="https://fonts.gstatic.com" crossorigin ;
+        font-style: normal;
+        font-weight: 500;
+        letter-spacing: 0.5px;
+        color: #ffffff;
+    }
+    #col2{
+        display: flex;
+        justify-content: flex-start;
+        align-items:flex-end;
+    }
+    .logo{
+        display: flex;
+        align-items: flex-end;
+        justify-content: flex-start;
+        margin-top: 18px;
+        margin-left: 30px;
+    
+       
+        height: 24px;
+    width: 17px;
+    left: 1223px;
+    top: 11px;
+    border-radius: 0px;
+    
+    
+    }
+    .col3{
+        display: flex;
+        justify-content: flex-start;
+        align-items: flex-end;
+        height: 10px;
+        
+    }
+    .para1{
+        display: flex;
+        justify-content: flex-start;
+         align-items:flex-end;
+         position: relative;
+         top: 1px;
+         left: 52px;
+         
+         
+        /* margin-bottom:  px;
+          position: relative;
+          bottom: 22px;
+          left: 47px; */  
+    
+        font-family:link rel="preconnect" href="https://fonts.googleapis.com"
+        link rel="preconnect" href="https://fonts.gstatic.com" crossorigin ;
+        font-size: 12px;
+        font-style: normal;
+        font-weight: 500;
+        margin-left: 10px;
+        color: #FFFFFF;
+    
+    }
+    
+
+ }
+ @media (max-width: 576px)  { 
+     /* .col-sm-12{
+         width: 100%;
+     } */
+     .container_fluid{
+         margin: 0%;
+         padding: 0%;
+         
+     }
+
+     
+    #row1{
+        height: 140px;
+        width: 1925px;
+        display: flex;
+        flex-direction: row;
+        justify-content: space-around;
+        
+    
+        margin-left: -15px;
+        margin-right: -100px;
+    
+        
+
+    }
+
+        
+        
+    .headerclass1{
+        position: fixed;
+    
+        display: inline-flex;
+        flex-direction:column;
+        justify-content: space-evenly;
+        align-items: center;
+        flex-wrap: wrap;
+        /* justify-items: flex-end; */
+        margin-top:   90px ;
+        margin-right: 290px;
+    
+        
+        
+    
+        
+        
+    
+    }
+    .col-12{
+    
+    }
+    .headerclass2{
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        background: #3B3B3B;
+        height: 40px;
+        width: 85px;
+        margin-right: 20px;
+    
+        
+    
+        
+        
+        
+    }
+    .span1{
+        
+        font-size: 17px;
+        font-family:link rel="preconnect" href="https://fonts.googleapis.com"
+        link rel="preconnect" href="https://fonts.gstatic.com" crossorigin ;
+        font-style: normal;
+        font-weight: 500;
+        letter-spacing: 0.5px;
+        color: #ffffff;
+    }
+    .headerclass4{
+        /* display: flex;
+        justify-content: center;
+        align-items: center; */
+        background: #3B3B3B;
+        margin-top: -40px;
+        margin-right: -200px;
+        
+        height: 40px;
+        width: 110px;
+    
+        
+        
+        
+    }
+    .span2{
+        font-size: 17px;
+        font-family:link rel="preconnect" href="https://fonts.googleapis.com"
+        link rel="preconnect" href="https://fonts.gstatic.com" crossorigin ;
+        font-style: normal;
+        font-weight: 500;
+        letter-spacing: 0.5px;
+        color: #ffffff;
+    }
+    #col2{
+        display: flex;
+        justify-content: flex-start;
+        align-items:center;
+    }
+    .logo{
+        display: flex;
+        align-items: flex-end;
+        justify-content: flex-start;
+        margin-top: 30px;
+        margin-left: 30px;
+    
+       
+        height: 24px;
+    width: 17px;
+    left: 1223px;
+    top: 11px;
+    border-radius: 0px;
+    
+    
+    }
+    .col3{
+        display: flex;
+        justify-content: flex-start;
+        align-items: flex-end;
+        height: 10px;
+        
+    }
+    .para1{
+        display: flex;
+        justify-content: flex-start;
+         align-items:flex-end;
+         position: relative;
+         top: 1px;
+         left: 52px;
+         
+         
+        /* margin-bottom:  px;
+          position: relative;
+          bottom: 22px;
+          left: 47px; */  
+    
+        font-family:link rel="preconnect" href="https://fonts.googleapis.com"
+        link rel="preconnect" href="https://fonts.gstatic.com" crossorigin ;
+        font-size: 12px;
+        font-style: normal;
+        font-weight: 500;
+        margin-left: 10px;
+        color: #FFFFFF;
+    
+    }
+
+ }
+ @media (max-width: 576px)  { 
+     /* .col-sm-12{
+         width: 100%;
+     } */
+    #row1{
+        height: 110px;
+        width: 100%;
+        margin-left: 0px;
+        margin-right: 0px;
+        
+        
+
+    }
+    .headerclass1{
+    
+        display: inline-flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        flex-wrap: wrap;
+        height: auto;
+        width: 100px; 
+        border:  1px solid red;
+        margin-bottom: 10px;
+         /* position: absolute;
+        bottom: 5px;
+        left: -240px;  */
+    
+    
+        
+        
+    
+        
+        
+    
+    }
+    .headerclass2{
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        background: #3B3B3B;
+        height: 40px;
+        width: 85px;
+        margin-left: 20px;
+        align-self: flex-start;
+    
+        
+    
+        
+        
+        
+    }
+    .span1{
+        
+        font-size: 17px;
+        font-family:link rel="preconnect" href="https://fonts.googleapis.com"
+        link rel="preconnect" href="https://fonts.gstatic.com" crossorigin ;
+        font-style: normal;
+        font-weight: 500;
+        letter-spacing: 0.5px;
+        color: #ffffff;
+    }
+    .headerclass4{
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        background: #3B3B3B;
+        margin-left: 125px;
+        /* margin-right: -80px; */
+    
+        
+        height: 40px;
+        width: 110px;
+        align-self: flex-start;
+    
+        
+        
+        
+    }
+    .span2{
+        font-size: 17px;
+        font-family:link rel="preconnect" href="https://fonts.googleapis.com"
+        link rel="preconnect" href="https://fonts.gstatic.com" crossorigin ;
+        font-style: normal;
+        font-weight: 500;
+        letter-spacing: 0.5px;
+        color: #ffffff;
+    }
+    #col2{
+        display: flex;
+        justify-content: flex-start;
+        align-items:flex-end;
+    }
+    .logo{
+        display: flex;
+        align-items: flex-end;
+        justify-content: flex-start;
+        margin-top: 18px;
+        margin-left: 30px;
+    
+       
+        height: 24px;
+    width: 17px;
+    left: 1223px;
+    top: 11px;
+    border-radius: 0px;
+    
+    
+    }
+    .col3{
+        display: flex;
+        justify-content: flex-start;
+        align-items: flex-end;
+        height: 10px;
+        font-size: 15px;
+        
+    }
+    .para1{
+        display: flex;
+        justify-content: flex-start;
+         align-items:flex-end;
+         position: relative;
+         top: 1px;
+         left: 52px;
+         
+         
+        /* margin-bottom:  px;
+          position: relative;
+          bottom: 22px;
+          left: 47px; */  
+    
+        font-family:link rel="preconnect" href="https://fonts.googleapis.com"
+        link rel="preconnect" href="https://fonts.gstatic.com" crossorigin ;
+        font-size: 12px;
+        font-style: normal;
+        font-weight: 500;
+        margin-left: 10px;
+        color: #FFFFFF;
+    
+    }
+    
+
+ }
+ @media (max-width: 576px)  { 
+     /* .col-sm-12{
+         width: 100%;
+     } */
+     .container_fluid{
+         margin: 0%;
+         padding: 0%;
+         
+     }
+
+     
+    #row1{
+        height: 145px;
+        width: 1925px;
+        display: flex;
+        flex-direction: column;
+        justify-content: space-around;
+        
+    
+        margin-left: -15px;
+        margin-right: -100px;
+    
+        
+
+    }
+
+        
+        
+    .headerclass1{
+        position: -webkit-sticky;
+        height: auto;
+        border: 1px solid #146CC4;
+        width: 100%;
+    
+    
+        display: inline-flex;
+        flex-direction:column;
+        justify-content: space-evenly;
+        align-items: center;
+        flex-wrap: wrap;
+        /* justify-items: flex-end; */
+        margin-top:   95px ;
+        margin-left: 5px;
+        margin-right: 400px;
+    
+        
+        
+    
+        
+        
+    
+    }
+    .headerclass2{
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        background: #3B3B3B;
+        height: 40px;
+        width: 85px;
+        margin-right: 20px;
+    
+        
+    
+        
+        
+        
+    }
+    .span1{
+        
+        font-size: 17px;
+        font-family:link rel="preconnect" href="https://fonts.googleapis.com"
+        link rel="preconnect" href="https://fonts.gstatic.com" crossorigin ;
+        font-style: normal;
+        font-weight: 500;
+        letter-spacing: 0.5px;
+        color: #ffffff;
+    }
+    .headerclass4{
+        /* display: flex;
+        justify-content: center;
+        align-items: center; */
+        background: #3B3B3B;
+        margin-top: -40px;
+        margin-right: -200px;
+        
+        height: 40px;
+        width: 110px;
+    
+        
+        
+        
+    }
+    .span2{
+        font-size: 17px;
+        font-family:link rel="preconnect" href="https://fonts.googleapis.com"
+        link rel="preconnect" href="https://fonts.gstatic.com" crossorigin ;
+        font-style: normal;
+        font-weight: 500;
+        letter-spacing: 0.5px;
+        color: #ffffff;
+    }
+    #col2{
+        display: flex;
+        justify-content: flex-start;
+        align-items:flex-start;
+        margin-bottom: 85px;
+    }
+    .logo{
+        display: flex;
+        align-items: flex-end;
+        justify-content: flex-start;
+        margin-top: 30px;
+        margin-left: 30px;
+    
+       
+        height: 24px;
+    width: 17px;
+    left: 1223px;
+    top: 11px;
+    border-radius: 0px;
+    
+    
+    }
+    .col3{
+        display: flex;
+        justify-content: flex-start;
+        align-items: flex-end;
+        height: 10px;
+        position: relative;
+        bottom: 85px;
+    
+
+        
+        
+    }
+    .para1{
+        display: flex;
+        justify-content: flex-start;
+         align-items:flex-end;
+         position: relative;
+         top: 1px;
+         left: 52px;
+         
+         
+        /* margin-bottom:  px;
+          position: relative;
+          bottom: 22px;
+          left: 47px; */  
+    
+        font-family:link rel="preconnect" href="https://fonts.googleapis.com"
+        link rel="preconnect" href="https://fonts.gstatic.com" crossorigin ;
+        font-size: 12px;
+        font-style: normal;
+        font-weight: 500;
+        margin-left: 10px;
+        color: #FFFFFF;
+    
+    }
+
+ }
+    
+
